@@ -73,8 +73,8 @@ To set up Jobnest on your local machine, follow these steps:
 - **Other Tools**: Webpack, Babel, ESLint, Prettier
 
 ## Screenshots
-![Landing Page](https://github.com/VatsalDoshi/JobNest/assets/114709734/f10bd27e-d732-4eaf-b70c-2a8c6194ccdb)
-![Dashboard](https://github.com/VatsalDoshi/JobNest/assets/114709734/20d7cd59-a8e1-4bba-9ace-d70337945665)
+<img width="964" height="481" alt="image" src="https://github.com/user-attachments/assets/8e5d20fd-0698-4527-ad54-4f0a88e66c23" />
+
 
 ## Team Members
 - Sneha Giranje: NUID 002785370 | giranje.s@northeastern.edu
