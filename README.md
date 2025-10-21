@@ -1,6 +1,6 @@
 # Jobnest
 
-![Jobnest Banner](https://github.com/VatsalDoshi/JobNest/assets/114709734/58f88974-d437-4b76-8232-8ce8fed63529)
+<img width="1136" height="554" alt="image" src="https://github.com/user-attachments/assets/3871bc53-3673-4cf6-93d0-d69d3f620dc7" />
 
 ## Overview
 
